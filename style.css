@@ -1,0 +1,44 @@
+body {
+    background: rgb(240, 240, 240) !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.wrapper {
+    margin: 30px auto auto !important;
+    background-color: white;
+    width: 600px !important; 
+    padding: 20px !important;
+    border-radius: 10px !important;
+}
+
+input[type=text],
+input[type=date], 
+input[type=number] {
+    height: 50px !important;
+}
+
+.submit-btn {
+    height: 50px;
+    background-color: blueviolet !important;
+}
+
+h2 {
+    color: blueviolet !important;
+}
+
+.rcd {
+    right: 0 !important;
+}
+.rcd-btn {
+    height: 50px !important;
+    background-color: blueviolet !important;
+}
+
+th,
+td {
+    line-height: 30px !important;
+}
